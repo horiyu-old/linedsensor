@@ -1,4 +1,4 @@
-//ラインセンサ　プログラム　master
+//ラインセンサ　プログラム　uno master
 
 #include <Wire.h>
 
